@@ -1,0 +1,74 @@
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\Medica Third.exe.config
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\Medica Third.exe
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\Medica Third.pdb
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.csproj.AssemblyReference.cache
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.csproj.SuggestedBindingRedirects.cache
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Antidepressivo.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Antipsicótico.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Créditos.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Início.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Jogo.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Medicamentos.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Medicação.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Properties.Resources.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Referências.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Tabela.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.csproj.GenerateResource.cache
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.csproj.CoreCompileInputs.cache
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.csproj.CopyComplete
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.exe
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.pdb
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\Medica Third.exe.manifest
+C:\Users\o.o\source\repos\Medica Third\Medica Third\bin\Debug\Medica Third.application
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.exe.manifest
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica Third.application
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.MaisInformações.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Quiz.resources
+C:\Users\o.o\source\repos\Medica Third\Medica Third\obj\Debug\Medica_Third.Pontuação.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\Medica Third.exe.config
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\Medica Third.exe.manifest
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\Medica Third.application
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\Medica Third.exe
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\Medica Third.pdb
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.csproj.AssemblyReference.cache
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.csproj.SuggestedBindingRedirects.cache
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Antidepressivo.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Antipsicótico.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Créditos.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Início.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Jogo.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.MaisInformações.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Medicamentos.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Medicação.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Pontuação.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Properties.Resources.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Quiz.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Referências.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica_Third.Tabela.resources
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.csproj.GenerateResource.cache
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.csproj.CoreCompileInputs.cache
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.exe.manifest
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.application
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.csproj.CopyComplete
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.exe
+C:\Users\o.o\Desktop\Trabalho\Código-fonte\Medica Third\obj\Debug\Medica Third.pdb

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Medica Third.exe" version="1.0.0.4" publicKeyToken="13f544d56e40ae13" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Medica Third" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Medica Third.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto do UAC
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó
+          requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e Registro para manter a compatibilidade com versões anteriores,
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ComponentFactory.Krypton.Docking.dll" size="338432">
+      <assemblyIdentity name="ComponentFactory.Krypton.Docking" version="4.6.0.0" publicKeyToken="A87E673E9ECB6E8E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DAH7JSJRMeW0kP/HSKMEYilIT0+jgZ3LbaVf+pdbgw4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ComponentFactory.Krypton.Navigator.dll" size="547840">
+      <assemblyIdentity name="ComponentFactory.Krypton.Navigator" version="4.6.0.0" publicKeyToken="A87E673E9ECB6E8E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+kklBYXX0fRNFohXH53wIOVbkmY9npRVfuHyKOvygLc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ComponentFactory.Krypton.Ribbon.dll" size="1209856">
+      <assemblyIdentity name="ComponentFactory.Krypton.Ribbon" version="4.6.0.0" publicKeyToken="A87E673E9ECB6E8E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>FX0b61gxdxkB8toPSKDqM8FChzCIBkmxem1mWrKgvdc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ComponentFactory.Krypton.Toolkit.dll" size="2965504">
+      <assemblyIdentity name="ComponentFactory.Krypton.Toolkit" version="4.6.0.0" publicKeyToken="A87E673E9ECB6E8E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>jGn13xELwaYb3D2HVOv9P0nZ2ZW53RKazK+INxznHjA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ComponentFactory.Krypton.Workspace.dll" size="288768">
+      <assemblyIdentity name="ComponentFactory.Krypton.Workspace" version="4.6.0.0" publicKeyToken="A87E673E9ECB6E8E" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>aZWqrV3O0GWeLdix48Y6Rs18hnVE8n3jF3JSyk2fptw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Medica Third.exe" size="5770712">
+      <assemblyIdentity name="Medica Third" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4ZxXC2Fm9VuVkhcUoBw2p6DAPt3A1Xt9vX+ulFcvM1Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Medica Third.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-K8U6SJL\o.o" issuerKeyHash="38ddb2c75a8476e742d77ec16dd5f6ae74c075d5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>njeYoF3gzc0IYRWSCNtCPqz1XVfRz7EzNpCHAtSQeqA=</DigestValue></Reference></SignedInfo><SignatureValue>BiwW5aR+LNhvlLNeSAUj4skDjO2ZyqGAokI2OUC+d5LhlFJ3E4LXugIyi2L7ElnbUdZ/R+2Zsa5tBe5+NVlfDhwig17tX+pQYiK2YFexwx3ITZeqwabaoI838ErOcLaMl7twRc3Fa+fev37jP0eOk8sNF6gWG7xyFp3BTmryaSs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qbzwC9Y8X/ElvFMqUZB0cmc1Ng5lHuXDnyzXGdbAFg3UElveQEUeIKI3aTZ47+zQ+aKMF2RX+nN1NZQJSud8zf7idOJ/A/mgmzIqMtMwA9hqDnDQ1kAJwqs4OYJ6N4RlWzAd5pczkmAsg1cA4kIOeSZx/7TcqrDOD6EH07j8nMk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a07a90d40287903633b1cfd1575df5ac3e42db0892156108cdcde05da098379e" Description="" Url=""><as:assemblyIdentity name="Medica Third.exe" version="1.0.0.4" publicKeyToken="13f544d56e40ae13" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-K8U6SJL\o.o</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>L62dFQc/uIfdj+eINBMLF+4sSoaL//u+35iORvOQDjE=</DigestValue></Reference></SignedInfo><SignatureValue>l6erQJo+VmyCWenFAeoFwdU26wcrclmx/7CNVrODp1dsSwps+LjRcZO2vljOyTstTMRWFDC9A7k5YNY/U9CKOPaTLE6TFREb7A1luHCjYKPNhnBlA5OQb0sPvkumAGObi821Faokgzdb6hK3KiwLCpSl+eEw8kcaSpiUFELgqQI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qbzwC9Y8X/ElvFMqUZB0cmc1Ng5lHuXDnyzXGdbAFg3UElveQEUeIKI3aTZ47+zQ+aKMF2RX+nN1NZQJSud8zf7idOJ/A/mgmzIqMtMwA9hqDnDQ1kAJwqs4OYJ6N4RlWzAd5pczkmAsg1cA4kIOeSZx/7TcqrDOD6EH07j8nMk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQFMTrnkrcZI5O5zycb+wk1zANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYARABFAFMASwBUAE8AUAAtAEsAOABVADYAUwBKAEwAXABvAC4AbzAeFw0yMjExMDkxODEwNDBaFw0yMzExMTAwMDEwNDBaMDExLzAtBgNVBAMeJgBEAEUAUwBLAFQATwBQAC0ASwA4AFUANgBTAEoATABcAG8ALgBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpvPAL1jxf8SW8UypRkHRyZzU2DmUe5cOfLNcZ1sAWDdQSW95ARR4gojdpNnjv7ND5oowXZFf6c3U1lAlK53zN/uJ04n8D+aCbMioy0zAD2GoOcNDWQAnCqzg5gno3hGVbMB3mlzOSYCyDVwDiQg55JnH/tNyqsM4PoQfTuPycyQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJX64vz4bR5jfx8tjWfv2pf5TasUfLH40rCK1w3zjGikXkCn6BIPXGvUY70Y5zhCJToH65ukDf78PDtE03f+hk8ZwQhI0ebnBagvGcv6qy35LrkSP11kXPaSe/kZZeB7bfjT3xa6mLkb8v2zB4HCKlkqwfrCYSKtVq/0nSoGhYTp</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
